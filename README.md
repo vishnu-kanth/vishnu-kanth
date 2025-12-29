@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Frontend web projects using HTML, CSS, JavaScript, and modern frameworks to improve UI/UX skills.<br><br>👯 I’m looking to collaborate on<br>Beginner-to-intermediate frontend projects, open-source contributions, and web applications.<br><br>🤝 I’m looking for help with<br>Best practices in React, performance optimization, and real-world project structuring.<br><br>🌱 I’m currently learning<br>React.js, responsive design, Git/GitHub workflows, and core Java & DSA basics.<br><br>💬 Ask me about<br>Frontend development, Java basics, Git/GitHub, Eclipse projects, and student learning paths.<br><br>⚡ Fun fact<br>I enjoy turning simple ideas into interactive web pages and improving designs pixel by pixel.
+🔭 I’m currently working on<br>Frontend web projects using HTML, CSS, JavaScript, and modern frameworks to improve UI/UX skills.<br><br>👯 I’m looking to collaborate on<br>Beginner-to-intermediate frontend projects, open-source contributions, and web applications.<br><br>🤝 I’m looking for help with<br>Best practices in React, performance optimization, and real-world project structuring.<br><br>🌱 I’m currently learning<br>React.js, responsive design, Git/GitHub workflows, and core Java & DSA basics.<br><br>
 
 
 ## 🌐 Connect With Me:
