@@ -2,7 +2,7 @@
 🔭 I’m currently working on<br>Frontend web projects using HTML, CSS, JavaScript, and modern frameworks to improve UI/UX skills.<br><br>👯 I’m looking to collaborate on<br>Beginner-to-intermediate frontend projects, open-source contributions, and web applications.<br><br>🤝 I’m looking for help with<br>Best practices in React, performance optimization, and real-world project structuring.<br><br>🌱 I’m currently learning<br>React.js, responsive design, Git/GitHub workflows, and core Java & DSA basics.<br><br>💬 Ask me about<br>Frontend development, Java basics, Git/GitHub, Eclipse projects, and student learning paths.<br><br>⚡ Fun fact<br>I enjoy turning simple ideas into interactive web pages and improving designs pixel by pixel.
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishnu-kanth-805406252/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnukanth512@gmail.com) 
 
 # 💻 Tech Stack:
