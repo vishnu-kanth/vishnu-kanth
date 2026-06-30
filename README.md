@@ -1,6 +1,6 @@
-# 👋 Hi,<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Vishnu%20Kanth&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:6A11CB,100:2575FC" />
-</p>
+# 👋 Hi,<h1 align="center">
+  <span style="color:#2563EB;">Vishnu Kanth</span>
+</h1>
 
 💻 **Java Full Stack Developer** | 🎓 **Computer Science Student**
 
