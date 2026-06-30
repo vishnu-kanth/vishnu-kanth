@@ -1,6 +1,4 @@
-# 👋 Hi,<h1 align="center">
-  <span style="color:#2563EB;">Vishnu Kanth</span>
-</h1>
+# 👋 Hi, Vishnu Kanth
 
 💻 **Java Full Stack Developer** | 🎓 **Computer Science Student**
 
