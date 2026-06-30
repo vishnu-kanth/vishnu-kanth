@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Vishnu Kanth
+# 👋 Hi,<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Vishnu%20Kanth&fontSize=50&fontColor=ffffff&color=0:00C6FF,100:0072FF" />
+</p>
 
 💻 **Java Full Stack Developer** | 🎓 **Computer Science Student**
 
