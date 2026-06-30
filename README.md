@@ -1,5 +1,5 @@
 # 👋 Hi,<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Vishnu%20Kanth&fontSize=50&fontColor=ffffff&color=0:00C6FF,100:0072FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Vishnu%20Kanth&fontSize=50&fontAlign=50&fontColor=ffffff&color=0:6A11CB,100:2575FC" />
 </p>
 
 💻 **Java Full Stack Developer** | 🎓 **Computer Science Student**
